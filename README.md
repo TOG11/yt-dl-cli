@@ -1,4 +1,4 @@
-# YT-DL-CLI 4.3.3-BETA
+# YT-DL-CLI 4.3.4-BETA
 #### A quick and easy CLI to download the highest quality YouTube videos, from 4k, you can download ANY quality, or just the audio.
 
 # ONLY WINDOWS OS IS SUPPORTED AS OF RIGHT NOW
@@ -11,7 +11,7 @@ To download this please install the latest LTS of Node.js by going to https://no
 ### After its finished
 Insert ```yt``` into the console, and press enter, you now have YT-DL-CLI installed! Read below for some basic examples and instructions/information!
 
-  # Beta Functions (4.3.3-beta)
+  # Beta Functions (4.3.4-beta)
 
 Options:<br>
   --help       ----------     Show help                                          [boolean]<br>
