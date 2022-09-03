@@ -1,5 +1,5 @@
 # YT-DL-CLI
-#### A quick and easy CLI to download the highest quality YouTube videos, from 4k, you can download ANY quality, or just the audio. \n Tired of those sketchy and slow youtube downloading websites? well, i have the solution, Have your own, at the click of a mouse you can install any youtube video you want, fast, easy, and simple.
+#### A quick and easy CLI to download the highest quality YouTube videos, from 4k, you can download ANY quality, or just the audio. <br> Tired of those sketchy and slow youtube downloading websites? well, i have the solution, Have your own, at the click of a mouse you can install any youtube video you want, fast, easy, and simple.
 
 # ONLY WINDOWS OS IS SUPPORTED AS OF RIGHT NOW
 There are plans to add suport for Linux operating systems in the near future, so stay tuned!
