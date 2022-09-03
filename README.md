@@ -7,7 +7,7 @@ There are plans to add suport for Linux operating systems in the near future, so
 ## Getting Started (Windows)
 To download this please install the latest LTS of Node.js by going to https://nodejs.org/en/
 ### Open any command prompt and insert the following,
- ```npm i yt-dl-cli -g```
+ ```npm i node-yt-dl-cli -g```
 ### After its finished
 Insert ```yt``` into the console, and press enter, you now have YT-DL-CLI installed! Read below for some basic examples and instructions/information!
 
