@@ -1,4 +1,4 @@
-# YT-DL-CLI 4.3.4-beta > 4.3.5-beta Docs
+# YT-DL-CLI 4.8.9-pathos4_beta
 #### A quick and easy CLI to download the highest quality YouTube videos, from 4k, you can download ANY quality, or just the audio.
 
 # ONLY WINDOWS OS IS SUPPORTED AS OF RIGHT NOW
@@ -11,7 +11,7 @@ To download this please install the latest LTS of Node.js by going to https://no
 ### After its finished
 Insert ```yt``` into the console, and press enter, you now have YT-DL-CLI installed! Read below for some basic examples and instructions/information!
 
-  # Beta Functions (4.3.4-beta > 4.3.5-beta)
+  # Beta Functions (4.8.9-pathos4_beta)
 
 Options:<br>
   --help       ----------     Show help                                          [boolean]<br>
@@ -19,7 +19,7 @@ Options:<br>
   --update     ----------     Check for an update from the API, if there is one, install
                     it.                                                [boolean]<br>
   --forceupdate  ----------   Force an update, even if its the same version.     [boolean]<br>
-  --about           About the CLI                                      [boolean]<br>
+  --about        ----------   About the CLI                                      [boolean]<br>
   --addcommand   ----------   Add a command for yt-dl-cli (DEFAULT: 'yt')         [string]<br>
   --remcommand   ----------   Remove a command for yt-dl-cli                      [string]<br>
   --commands      ----------  Shows all start commands                           [boolean]<br>
@@ -27,6 +27,7 @@ Options:<br>
                                                                         [string]<br>
   --thumbnail    ----------   Gets a youtube videos thumbnail                     [string]<br>
   --refreshmodules ---------- Refresh the NPM Modules if theres any errors.       [string]<br>
+  --status ---------- Get the Pathos 4 API status                        [boolean]<br>
   --branch       ----------   choose the branch of YT-DL-CLI to use               [string]<br>
   --branches    ----------    A list of the available the branches of YT-DL-CLI to use
                                                                        [boolean]<br>
@@ -36,4 +37,4 @@ Options:<br>
   --url       ----------      Youtube video URL                                   [string]<br>
   <br>
   <br>
-  ## To switch to the release branch of the CLI, use ```yt --branch latest_branch```
+  ## To switch to the pathos4_beta branch of the CLI, use ```yt --branch pathos4_beta```
