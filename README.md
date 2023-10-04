@@ -12,7 +12,10 @@ To download this please install the latest LTS of Node.js by going to https://no
 Insert ```yt``` into the console, and press enter, you now have YT-DL-CLI installed! Read below for some basic examples and instructions/information!
 
 
-
+<br><br><br>
+### This projects branches are no longer maintaned, only the current branch is, and its *supported*, not maintained. Please do not attempt to switch branches or update the program as this will cause a fatal error, and you must re-install.
+<br>
+<br><br>
 
 
 
